@@ -1,0 +1,30 @@
+{
+  "name": "wxmsg-tpl",
+  "version": "1.0.0",
+  "description": "微信模版消息发送，模版消息常用API封装 支持express和koa-generator调用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxz1025/wxmsg-tpl.git"
+  },
+  "keywords": [
+    "weixin",
+    "wx",
+    "wx-tpl",
+    "微信模版消息",
+    "weixin-tpl"
+  ],
+  "dependencies": {
+    "q": "1.4.1",
+    "request": "*"
+  },
+  "author": "yxz1025",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yxz1025/wxmsg-tpl/issues"
+  },
+  "homepage": "https://github.com/yxz1025/wxmsg-tpl#readme"
+}
